@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Automatic wallpaper rotating daemon
-Summary(pl.UTF-8):   Demon służący do automatycznej zmiany tapety
+Summary(pl.UTF-8):	Demon służący do automatycznej zmiany tapety
 Name:		bgbuddy
 Version:	1.22
 Release:	1
