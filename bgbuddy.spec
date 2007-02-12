@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Automatic wallpaper rotating daemon
-Summary(pl):	Demon s≥uø±cy do automatycznej zmiany tapety
+Summary(pl.UTF-8):   Demon s≈Çu≈ºƒÖcy do automatycznej zmiany tapety
 Name:		bgbuddy
 Version:	1.22
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Automatic wallpaper rotating daemon. It supports GNOME 2.x,
 WindowMaker, FluxBox and XFCE.
 
-%description -l pl
-Demon s≥uø±cy do automatycznej zmiany tapety. Dzia≥a z GNOME 2.x,
+%description -l pl.UTF-8
+Demon s≈Çu≈ºƒÖcy do automatycznej zmiany tapety. Dzia≈Ça z GNOME 2.x,
 WindowMakerem, FluxBoksem, i XFCE.
 
 %prep
